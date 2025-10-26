@@ -1,0 +1,223 @@
+{
+  "site": {
+    "name": "たかだのばば整骨院",
+    "locale": "ja_JP",
+    "page_slug": "takadanobaba-seikotsuin-sample",
+    "noindex": true,
+    "head": {
+      "title": "高田馬場駅1分｜電気療法に特化した整骨院",
+      "meta": [
+        {
+          "name": "description",
+          "content": "高田馬場駅徒歩10秒の電気療法特化型整骨院。EMS／ハイボルテージ／マイクロカレント等と手技を組み合わせ、痛みの軽減と再発予防をめざす完全予約制。既存患者は時間外24時間相談可。新規は2025/12/21〜紹介状受付。効果には個人差があります。"
+        },
+        { "name": "robots", "content": "noindex, nofollow, noarchive, nosnippet, noimageindex" },
+        { "http-equiv": "X-Robots-Tag", "content": "noindex, nofollow, noarchive, nosnippet, noimageindex" },
+        { "name": "format-detection", "content": "telephone=no" }
+      ],
+      "link": [
+        { "rel": "canonical", "href": "https://example.com/takadanobaba-seikotsuin-sample" }
+      ],
+      "open_graph": {
+        "og:title": "高田馬場駅1分｜電気療法に特化した整骨院",
+        "og:type": "website",
+        "og:url": "https://example.com/takadanobaba-seikotsuin-sample",
+        "og:image": "https://example.com/assets/img_1.jpg",
+        "og:locale": "ja_JP",
+        "og:site_name": "たかだのばば整骨院"
+      }
+    }
+  },
+  "organization": {
+    "legal_name": "たかだのばば整骨院",
+    "business_type": "整骨院",
+    "description": "電気療法に特化した完全予約制の整骨院。EMS、ハイボルテージ等の物理療法と手技を組み合わせ、痛みの軽減と再発予防を目指します。ダーツ外傷にも対応。"
+  },
+  "location": {
+    "address": {
+      "postal_code": "169-0075",
+      "region": "東京都",
+      "city": "新宿区",
+      "street": "高田馬場1-33-13 千年ビル802号"
+    },
+    "nearest_station": [
+      { "line": "JR山手線／西武新宿線", "name": "高田馬場駅", "exit": "戸山口", "walk": "徒歩10秒" },
+      { "line": "東京メトロ東西線", "name": "高田馬場駅", "walk": "徒歩2分" }
+    ],
+    "map": {
+      "embed_src": "https://www.google.com/maps?q=%E6%9D%B1%E4%BA%AC%E9%83%BD+%E6%96%B0%E5%AE%BF%E5%8C%BA%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B41-33-13+%E5%8D%83%E5%B9%B4%E3%83%93%E3%83%AB802%E5%8F%B7&hl=ja&z=18&output=embed",
+      "map_link": "https://maps.app.goo.gl/v4uV4VRFCH5gwx9n8"
+    },
+    "epark_url": "https://karadarefre.jp/facility/166339/"
+  },
+  "contact": {
+    "phone": "03-6265-9955"
+  },
+  "hours": {
+    "main": [
+      {
+        "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+        "open": "09:00",
+        "close": "22:00",
+        "note": "完全予約制"
+      }
+    ],
+    "notes": [
+      "日曜・祝日は特定検査日となります。",
+      "HTML内の一部（特徴、フッター）に「8:00–22:00」の記載がありますが、診療時間セクションの表記を正としています。",
+      "既存患者は時間外24時間相談可"
+    ]
+  },
+  "appointment_policy": {
+    "is_reservation_required": true,
+    "new_patients": {
+      "status": "受付停止中",
+      "start_date": "2025-12-21",
+      "note": "新規受付は2025/12/21から。紹介状が必要です。"
+    }
+  },
+  "sections": {
+    "hero": {
+      "headline": "高田馬場駅1分 電気療法に特化した整骨院",
+      "sub_headline": "EMS／ハイボルテージ／マイクロカレント等の物理療法と手技を組み合わせ 痛みの軽減と再発予防をめざす完全予約制",
+      "image": { "src": "./img_3.jpg", "alt": "院内や施術のイメージ" },
+      "tags": ["完全予約制", "ダーツ外傷対応", "高田馬場駅 徒歩10秒"]
+    },
+    "features": [
+      {
+        "title": "駅近で通いやすい",
+        "text": "JR山手線・西武新宿線 高田馬場駅 （戸山口）徒歩10秒 東京メトロ東西線 徒歩2分 8:00–22:00で予約に対応"
+      },
+      {
+        "title": "電気療法×手技のハイブリッド",
+        "text": "出力や周波数を個別に調整し 負担を抑えた施術を心がけます"
+      },
+      {
+        "title": "ダーツ外傷に詳しいスタッフ",
+        "text": "投動作の癖や練習負荷も踏えた評価で再発予防まで支援"
+      }
+    ],
+    "services": [
+      {
+        "title": "電気刺激療法（物理療法）",
+        "image": { "src": "./img_2.jpg", "alt": "電気刺激療法のイメージ" },
+        "items": ["EMS療法", "ハイボルテージ療法", "マイクロカレント療法"]
+      },
+      {
+        "title": "手技・運動指導",
+        "image": { "src": "./img_3.jpg", "alt": "手技と運動指導のイメージ" },
+        "description": "可動域と筋緊張のバランスを整え再発予防を後押しします。"
+      },
+      {
+        "title": "スポーツ（ダーツ）外傷",
+        "image": { "src": "./img_4.jpg", "alt": "ダーツ外傷のケア" },
+        "items": ["腰", "肩", "手首・手指、肘"],
+        "note": "競技復帰の可否や時期は医療機関と連携し判断します。"
+      }
+    ],
+    "director": {
+      "title": "院長紹介",
+      "name": "川原田 剛",
+      "qualification": "柔道整復師",
+      "image": { "src": "./kawarada.jpg", "alt": "院長 川原田（柔道整復師）" },
+      "lead": "痛みの軽減だけでなく、再発予防までを見据えた評価・施術を重視しています。電気療法 × 手技 を状態にあわせてハイブリッドに施し、快適域で個別に調整します。",
+      "policy": [
+        "問診・動作/可動域・触診を丁寧に評価し、施術計画を共有",
+        "電気刺激（EMS／ハイボルテージ／マイクロカレント）は不快感のない出力で微調整",
+        "手技・運動指導・セルフケアを組み合わせ、日常動作からの再発予防をサポート"
+      ],
+      "message": "「強い刺激＝良い」ではありません。からだが受け入れやすい刺激を積み重ね、できる動きを少しずつ増やすことを大切にしています。不安やご希望（手技中心／電気中心など）は遠慮なくお伝えください。状態と安全性を踏まえ、最適な施術をご提案します。",
+      "note": "※ 医師から物理療法の制限がある場合は事前にご申告ください。"
+    },
+    "gallery": {
+      "title": "院内・施術の雰囲気",
+      "images": [
+        { "src": "./img_1.jpg", "alt": "院内全景" },
+        { "src": "./img_2.jpg", "alt": "電気療法機器" },
+        { "src": "./img_3.jpg", "alt": "手技の様子" },
+        { "src": "./img_4.jpg", "alt": "ダーツ外傷への対応" },
+        { "src": "./img_5.jpg", "alt": "受付・待合" }
+      ]
+    },
+    "voices": {
+      "title": "お客様の声",
+      "note": "※個人の感想で、感じ方には個人差があります。",
+      "reviews": [
+        {
+          "author": "30代・女性（デスクワーク）",
+          "symptom": "首・肩の重だるさ",
+          "image": { "src": "voice_woman_office.jpg", "alt": "30代女性のイラスト" },
+          "body": "夕方の首肩こりがつらかったのですが、心地よい電気と手技で軽くなりました。教わったストレッチで調子を保てています。",
+          "treatment": "施術：TENS＋手技／セルフケア指導"
+        },
+        {
+          "author": "40代・男性（会社員）",
+          "symptom": "慢性的な腰の違和感",
+          "image": { "src": "voice_man_office.jpg", "alt": "40代男性のイラスト" },
+          "body": "朝のこわばりが続いていましたが、ハイボルテージと骨盤まわりの手技で楽に。22時まで予約できて通いやすいです。",
+          "treatment": "施術：ハイボルテージ＋手技／姿勢・動作アドバイス"
+        },
+        {
+          "author": "10代・男子（サッカー部）",
+          "symptom": "足首の違和感",
+          "image": { "src": "voice_boy_soccer.jpg", "alt": "サッカー少年のイラスト" },
+          "body": "微弱電流と手技で違和感が引き、段階的メニューで3週ほどで練習復帰。セルフケアも分かりやすかったです。",
+          "treatment": "施術：マイクロカレント＋手技／復帰プログラム"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "初回の流れと所要時間を教えてください。",
+        "a": "問診・評価（カウンセリング／可動域／触診）→施術計画の共有→電気刺激＋手技。所要は目安60〜90分、2回目以降は30〜60分です。"
+      },
+      {
+        "q": "電気刺激は痛くありませんか？強い方が効きますか？",
+        "a": "不快感のない範囲で出力と周波数を個別に調整します。強ければ良いわけではなく、過度な刺激は逆効果になる場合があります。心地よい刺激域が基本です。"
+      },
+      {
+        "q": "電気治療が合うか不安です。手技だけ／電気だけの希望は可能？",
+        "a": "初回評価で適応を確認し、電気と手技の比率を調整します。手技中心・電気中心などのご希望も可能な範囲で対応します（安全性と適応を優先）。"
+      },
+      {
+        "q": "禁忌や注意事項はありますか？",
+        "a": "体内植込み型医用電気機器（ペースメーカー等）は通電不可、妊娠中の体幹部通電は避けます。急性の感染症・発熱時、悪性腫瘍部位・重度の知覚障害には強い刺激を行いません。主治医の指示がある場合は事前にお知らせください。"
+      },
+      {
+        "q": "副作用やリスクは？",
+        "a": "一時的な筋肉痛やだるさ、軽い発赤・ヒリつきを感じることがあります。強い痛みや違和感が出た場合は直ちにお申し出ください。感じ方や経過には個人差があります。"
+      },
+      {
+        "q": "通院頻度と回数の目安は？",
+        "a": "痛みの性質・生活動作・目標により異なります。急性期は短期集中的、それ以降は間隔を空けながらセルフケアを併用する方が多いです。初回後に目安をお伝えします。"
+      },
+      {
+        "q": "ダーツ由来の肘・肩・手首の痛みは見てもらえますか？",
+        "a": "対応可能です。投動作の癖や練習負荷、可動域や筋連鎖を評価し、電気刺激・手技・運動指導を組み合わせて復帰を支援します（復帰時期は個別判断）。"
+      }
+    ]
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@type": "MedicalBusiness",
+    "name": "たかだのばば整骨院",
+    "url": "https://example.com/takadanobaba-seikotsuin-sample",
+    "telephone": "+81-3-6265-9955",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "高田馬場1-33-13 千年ビル802号",
+      "addressLocality": "新宿区",
+      "addressRegion": "東京都",
+      "postalCode": "169-0075",
+      "addressCountry": "JP"
+    },
+    "openingHours": "Mo-Su 08:00-22:00",
+    "medicalSpecialty": ["Physiotherapy","SportsInjury"],
+    "areaServed": "Shinjuku, Tokyo, Japan",
+    "isAcceptingNewPatients": false,
+    "sameAs": [
+      "https://maps.app.goo.gl/v4uV4VRFCH5gwx9n8",
+      "https://karadarefre.jp/facility/166339/"
+    ]
+  }
+}
